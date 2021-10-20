@@ -9,3 +9,16 @@ String to evaluate.
 
 ## Output
 Boolean Value. 
+
+For e.g. 
+
+palindrome_checker('aIbohPhoBiA')
+True
+
+and 
+
+palindrome_checker('hello_world')
+False
+
+
+Test the palindrome_checker using the 50+ Palindrome Sentences found here at https://www.scarymommy.com/palindrome-sentences/ . 
