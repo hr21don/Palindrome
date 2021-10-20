@@ -20,5 +20,4 @@ and
 palindrome_checker('hello_world')
 False
 
-
 Test the palindrome_checker using the 50+ Palindrome Sentences found here at https://www.scarymommy.com/palindrome-sentences/ . 
